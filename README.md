@@ -1,4 +1,4 @@
-# Question-Classificati
+# Question-Classification
 # Quantum-Enhanced Transformers for GATE CSE Question Classification
 
 This project explores the effectiveness of **quantum-enhanced transformer models** in improving the performance of question classification, using **GATE CSE** questions across 8 core topics. We benchmark classical transformer models and introduce quantum encoding techniques to push the boundaries of accuracy and efficiency.
@@ -20,7 +20,7 @@ The dataset was **manually curated** and consists of a total of **2400 questions
 
 Each topic contains exactly **300 questions**.
 
- **[Dataset on Kaggle → (Link to be added)]**
+ **[Dataset on Kaggle → (https://www.kaggle.com/datasets/sakshi2409/gate-cse-question-classification-dataset/data)]**
 
 If you use this dataset in your research or project, please cite:
 Sahu, S. (2025): GATE CSE Question Classification Dataset. Retrieved from [Kaggle URL].
